@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 //import App from './App';
 import './index.css';
 
-var data = 123;
+var data = "Hello World";
 
 class MyTitle extends React.Component {
     static propTypes = {
