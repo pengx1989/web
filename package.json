@@ -1,7 +1,7 @@
 {
   "name": "web",
   "version": "0.1.0",
-  "homepage": "https://pengx1989.github.io/web",
+  "homepage": "https://pengx1989.github.io",
   "private": true,
   "dependencies": {
     "react": "^16.8.3",
